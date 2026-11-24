@@ -1,0 +1,1 @@
+NightNanny is a $7-a-month babysitter for your coding agent: at 3am it kills its 47th refactor of the same file and ships the version that already worked.
